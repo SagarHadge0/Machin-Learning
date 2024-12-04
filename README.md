@@ -6,20 +6,31 @@ This repository contains resources, projects, and implementations of ML techniqu
 Machine Learning Algorithms
 This repository includes implementations and resources for various machine learning algorithms, including:
 
-Supervised Learning
+# Supervised Learning
 
 Linear Regression
+
 Logistic Regression
+
 Decision Trees
+
 Random Forest
+
 Support Vector Machines (SVM)
+
 k-Nearest Neighbors (k-NN)
-Gradient Boosting (e.g., XGBoost, LightGBM)
-Unsupervised Learning
+
+Gradient Boosting (e.g., XGBoost)
+
+# Unsupervised Learning
 
 k-Means Clustering
+
 Hierarchical Clustering
+
 Principal Component Analysis (PCA)
+
 DBSCAN
+
 Explore and contribute to these algorithms with practical examples and real-world datasets.
 
